@@ -1,0 +1,1 @@
+<?php global $recent_contacts_shc_count; ?><ul>
